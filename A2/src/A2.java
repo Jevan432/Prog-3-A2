@@ -1,4 +1,7 @@
-
+/**
+ * Joe Evans comp 2503
+ * Assignment 2
+ */
 public class A2 {
 
     public void run(String filePath) throws Exception{
